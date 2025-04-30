@@ -8,4 +8,4 @@ WORKDIR /todo-app
 # Install dependencies
 RUN yarn install --production
 # Start the application
-CMD ["node", "/src/index. js"]
+CMD ["node", "/src/index.js"]
